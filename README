@@ -1,0 +1,3 @@
+Python project sample where all sql is split into files
+so that it would be possible to work on sql using dedicated
+tools such as DBiever or DataGrip.
